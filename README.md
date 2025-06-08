@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyushdash94&color=blueviolet" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Twitter-@piyushdash94-1DA1F2" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Instagram-@piyush_dash-1DA1F2" alt="Instagram"/>
 </p>
 
 # 👋 Hey there, I’m Piyush Dash!
