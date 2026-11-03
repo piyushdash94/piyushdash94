@@ -67,7 +67,7 @@ I’m always up for:
 
 **Feel free to:**
 - ⭐ any repo that inspires you  
-- 🐦 Say hi on instagram: [@piyushdash94](https://instagram.com/piyush_dash)  
+- 🐦 Say hi on instagram: [@piyush_dash](https://instagram.com/piyush_dash)  
 - 📬 Drop me an email: piyushdash94@gmail.com  
 
 > “Turning numbers into stories, one line of code at a time.”  
